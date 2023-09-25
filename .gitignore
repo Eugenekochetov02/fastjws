@@ -1,0 +1,6 @@
+LICENSE
+setup.cfg
+setup.py
+build
+dist
+fastjws.egg-info
