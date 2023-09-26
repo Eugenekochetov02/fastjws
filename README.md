@@ -1,6 +1,6 @@
 # FastJWS
 
-Using this module you can quickly and easily perform JWT authentication.
+Using this module you can quickly and easily perform JWT authentication for FastAPI.
 The main advantage is the use of the RSA-256 algorithm for signing tokens.
 The library is also great for small microservices.
 
